@@ -1,8 +1,5 @@
 ### Hi there 👋
-[![GitHub Streak](https://streak-stats.demolab.com?user=HaynarCool)](https://git.io/streak-stats)
-
-https://github-readme-stats.anuraghazra1.vercel.app/api?username=HaynarCool&theme=vue&hide_border=true&hide_title=true&count_private=true
-https://github-readme-stats.vercel.app/api/top-langs/?username=HaynarCool&layout=compact&theme=vue&card_width=445&hide_border=true
+[![HaynarCool's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaynarCool&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **HaynarCool/HaynarCool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
